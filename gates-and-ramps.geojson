@@ -1,0 +1,5416 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2020-10-17T13:03:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/248136539",
+        "aeroway": "gate",
+        "ref": "F7",
+        "@timestamp": "2012-08-17T09:20:01Z",
+        "@version": "4",
+        "@changeset": "12760040",
+        "@user": "HarryB83",
+        "@uid": "810685"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7612245,
+          52.3133838
+        ]
+      },
+      "id": "node/248136539"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/248136540",
+        "aeroway": "gate",
+        "ref": "F9",
+        "@timestamp": "2012-08-17T09:20:01Z",
+        "@version": "4",
+        "@changeset": "12760040",
+        "@user": "HarryB83",
+        "@uid": "810685"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7620293,
+          52.3132231
+        ]
+      },
+      "id": "node/248136540"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/248136541",
+        "aeroway": "gate",
+        "ref": "F8",
+        "@timestamp": "2012-08-17T09:20:01Z",
+        "@version": "3",
+        "@changeset": "12760040",
+        "@user": "HarryB83",
+        "@uid": "810685"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7626891,
+          52.3132559
+        ]
+      },
+      "id": "node/248136541"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/248136542",
+        "aeroway": "gate",
+        "ref": "F6",
+        "@timestamp": "2012-08-17T09:20:02Z",
+        "@version": "3",
+        "@changeset": "12760040",
+        "@user": "HarryB83",
+        "@uid": "810685"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7623243,
+          52.3128163
+        ]
+      },
+      "id": "node/248136542"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/248136819",
+        "aeroway": "gate",
+        "ref": "F4",
+        "@timestamp": "2012-08-17T09:20:02Z",
+        "@version": "3",
+        "@changeset": "12760040",
+        "@user": "HarryB83",
+        "@uid": "810685"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7621803,
+          52.3120754
+        ]
+      },
+      "id": "node/248136819"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/248136820",
+        "aeroway": "gate",
+        "ref": "F5",
+        "@timestamp": "2012-08-17T09:20:02Z",
+        "@version": "3",
+        "@changeset": "12760040",
+        "@user": "HarryB83",
+        "@uid": "810685"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7613264,
+          52.3128788
+        ]
+      },
+      "id": "node/248136820"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/248136822",
+        "aeroway": "gate",
+        "ref": "F2",
+        "@timestamp": "2012-08-17T09:20:02Z",
+        "@version": "3",
+        "@changeset": "12760040",
+        "@user": "HarryB83",
+        "@uid": "810685"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7622867,
+          52.3113997
+        ]
+      },
+      "id": "node/248136822"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/248136824",
+        "aeroway": "gate",
+        "ref": "F3",
+        "@timestamp": "2012-08-17T09:20:02Z",
+        "@version": "3",
+        "@changeset": "12760040",
+        "@user": "HarryB83",
+        "@uid": "810685"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7616483,
+          52.3123343
+        ]
+      },
+      "id": "node/248136824"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/248137222",
+        "aeroway": "gate",
+        "ref": "G2",
+        "@timestamp": "2012-08-17T09:20:02Z",
+        "@version": "5",
+        "@changeset": "12760040",
+        "@user": "HarryB83",
+        "@uid": "810685"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7574748,
+          52.3115801
+        ]
+      },
+      "id": "node/248137222"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/248137223",
+        "aeroway": "gate",
+        "ref": "G6",
+        "@timestamp": "2012-08-17T09:20:02Z",
+        "@version": "4",
+        "@changeset": "12760040",
+        "@user": "HarryB83",
+        "@uid": "810685"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7573622,
+          52.3126787
+        ]
+      },
+      "id": "node/248137223"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/248137224",
+        "aeroway": "gate",
+        "ref": "G8",
+        "@timestamp": "2012-08-17T09:20:02Z",
+        "@version": "4",
+        "@changeset": "12760040",
+        "@user": "HarryB83",
+        "@uid": "810685"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7572976,
+          52.3133379
+        ]
+      },
+      "id": "node/248137224"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/248162266",
+        "aeroway": "gate",
+        "ref": "G4",
+        "@timestamp": "2012-08-17T09:20:06Z",
+        "@version": "3",
+        "@changeset": "12760040",
+        "@user": "HarryB83",
+        "@uid": "810685"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7574265,
+          52.3120294
+        ]
+      },
+      "id": "node/248162266"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/248162267",
+        "aeroway": "gate",
+        "ref": "G3",
+        "@timestamp": "2012-08-17T09:20:06Z",
+        "@version": "4",
+        "@changeset": "12760040",
+        "@user": "HarryB83",
+        "@uid": "810685"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7567689,
+          52.3118503
+        ]
+      },
+      "id": "node/248162267"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/248162268",
+        "aeroway": "gate",
+        "ref": "G5",
+        "@timestamp": "2012-08-17T09:20:06Z",
+        "@version": "5",
+        "@changeset": "12760040",
+        "@user": "HarryB83",
+        "@uid": "810685"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7567076,
+          52.3125114
+        ]
+      },
+      "id": "node/248162268"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/248162269",
+        "aeroway": "gate",
+        "ref": "G7",
+        "@timestamp": "2012-08-17T09:20:06Z",
+        "@version": "4",
+        "@changeset": "12760040",
+        "@user": "HarryB83",
+        "@uid": "810685"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7566487,
+          52.3131707
+        ]
+      },
+      "id": "node/248162269"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/248162270",
+        "aeroway": "gate",
+        "ref": "G9",
+        "@timestamp": "2012-08-17T09:20:06Z",
+        "@version": "3",
+        "@changeset": "12760040",
+        "@user": "HarryB83",
+        "@uid": "810685"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7565812,
+          52.3138344
+        ]
+      },
+      "id": "node/248162270"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255122887",
+        "aeroway": "gate",
+        "ref": "E2",
+        "@timestamp": "2012-08-17T09:20:02Z",
+        "@version": "2",
+        "@changeset": "12760040",
+        "@user": "HarryB83",
+        "@uid": "810685"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7652643,
+          52.3102649
+        ]
+      },
+      "id": "node/255122887"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255122893",
+        "aeroway": "gate",
+        "ref": "E4",
+        "@timestamp": "2012-08-17T09:20:02Z",
+        "@version": "2",
+        "@changeset": "12760040",
+        "@user": "HarryB83",
+        "@uid": "810685"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7657149,
+          52.3106716
+        ]
+      },
+      "id": "node/255122893"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255122896",
+        "aeroway": "gate",
+        "ref": "E5",
+        "@timestamp": "2012-08-17T09:20:02Z",
+        "@version": "2",
+        "@changeset": "12760040",
+        "@user": "HarryB83",
+        "@uid": "810685"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7660204,
+          52.3114817
+        ]
+      },
+      "id": "node/255122896"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255122899",
+        "aeroway": "gate",
+        "ref": "E6",
+        "@timestamp": "2012-08-17T09:20:03Z",
+        "@version": "2",
+        "@changeset": "12760040",
+        "@user": "HarryB83",
+        "@uid": "810685"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7662296,
+          52.3111439
+        ]
+      },
+      "id": "node/255122899"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255122901",
+        "aeroway": "gate",
+        "ref": "E7",
+        "@timestamp": "2012-08-17T09:20:03Z",
+        "@version": "4",
+        "@changeset": "12760040",
+        "@user": "HarryB83",
+        "@uid": "810685"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7664871,
+          52.3121375
+        ]
+      },
+      "id": "node/255122901"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255122912",
+        "aeroway": "gate",
+        "ref": "E8",
+        "@timestamp": "2012-08-17T09:20:03Z",
+        "@version": "3",
+        "@changeset": "12760040",
+        "@user": "HarryB83",
+        "@uid": "810685"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7669916,
+          52.3116719
+        ]
+      },
+      "id": "node/255122912"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255122914",
+        "aeroway": "gate",
+        "ref": "E9",
+        "@timestamp": "2012-08-17T09:20:03Z",
+        "@version": "4",
+        "@changeset": "12760040",
+        "@user": "HarryB83",
+        "@uid": "810685"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7670129,
+          52.3126525
+        ]
+      },
+      "id": "node/255122914"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255122916",
+        "aeroway": "gate",
+        "ref": "E20",
+        "@timestamp": "2012-08-17T09:20:03Z",
+        "@version": "3",
+        "@changeset": "12760040",
+        "@user": "HarryB83",
+        "@uid": "810685"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7682416,
+          52.3128165
+        ]
+      },
+      "id": "node/255122916"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255122918",
+        "aeroway": "gate",
+        "ref": "E17",
+        "@timestamp": "2012-08-17T09:20:03Z",
+        "@version": "3",
+        "@changeset": "12760040",
+        "@user": "HarryB83",
+        "@uid": "810685"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7676568,
+          52.3132231
+        ]
+      },
+      "id": "node/255122918"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255122931",
+        "aeroway": "gate",
+        "ref": "E22",
+        "@timestamp": "2012-08-17T09:20:03Z",
+        "@version": "3",
+        "@changeset": "12760040",
+        "@user": "HarryB83",
+        "@uid": "810685"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7688046,
+          52.3134658
+        ]
+      },
+      "id": "node/255122931"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255123003",
+        "aeroway": "gate",
+        "ref": "E19",
+        "@timestamp": "2012-08-17T09:20:03Z",
+        "@version": "3",
+        "@changeset": "12760040",
+        "@user": "HarryB83",
+        "@uid": "810685"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.768354,
+          52.313797
+        ]
+      },
+      "id": "node/255123003"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255123261",
+        "aeroway": "gate",
+        "ref": "E24",
+        "@timestamp": "2012-08-17T09:20:03Z",
+        "@version": "3",
+        "@changeset": "12760040",
+        "@user": "HarryB83",
+        "@uid": "810685"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7693088,
+          52.3139315
+        ]
+      },
+      "id": "node/255123261"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255123398",
+        "aeroway": "gate",
+        "layer": "1",
+        "ref": "D3",
+        "@timestamp": "2016-10-01T09:53:28Z",
+        "@version": "3",
+        "@changeset": "42560025",
+        "@user": "michael63",
+        "@uid": "462088"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7667844,
+          52.3088787
+        ]
+      },
+      "id": "node/255123398"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255123401",
+        "aeroway": "gate",
+        "layer": "1",
+        "ref": "D5",
+        "@timestamp": "2016-10-01T09:53:28Z",
+        "@version": "3",
+        "@changeset": "42560025",
+        "@user": "michael63",
+        "@uid": "462088"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7675118,
+          52.3088741
+        ]
+      },
+      "id": "node/255123401"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255123404",
+        "aeroway": "gate",
+        "layer": "1",
+        "ref": "D7",
+        "@timestamp": "2016-10-01T09:53:28Z",
+        "@version": "3",
+        "@changeset": "42560025",
+        "@user": "michael63",
+        "@uid": "462088"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7683488,
+          52.3088413
+        ]
+      },
+      "id": "node/255123404"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255123717",
+        "aeroway": "gate",
+        "layer": "1",
+        "ref": "D41",
+        "@timestamp": "2016-10-01T09:53:28Z",
+        "@version": "3",
+        "@changeset": "42560025",
+        "@user": "michael63",
+        "@uid": "462088"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7694397,
+          52.30933
+        ]
+      },
+      "id": "node/255123717"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255123719",
+        "aeroway": "gate",
+        "layer": "1",
+        "ref": "D43",
+        "@timestamp": "2016-10-01T09:53:28Z",
+        "@version": "3",
+        "@changeset": "42560025",
+        "@user": "michael63",
+        "@uid": "462088"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7699332,
+          52.3097066
+        ]
+      },
+      "id": "node/255123719"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255123737",
+        "aeroway": "gate",
+        "layer": "1",
+        "ref": "D47",
+        "@timestamp": "2016-10-01T09:53:28Z",
+        "@version": "3",
+        "@changeset": "42560025",
+        "@user": "michael63",
+        "@uid": "462088"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7707145,
+          52.3097107
+        ]
+      },
+      "id": "node/255123737"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255123741",
+        "aeroway": "gate",
+        "layer": "1",
+        "ref": "D49",
+        "@timestamp": "2016-10-01T09:53:29Z",
+        "@version": "4",
+        "@changeset": "42560025",
+        "@user": "michael63",
+        "@uid": "462088"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7712775,
+          52.3096901
+        ]
+      },
+      "id": "node/255123741"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255123786",
+        "aeroway": "gate",
+        "layer": "1",
+        "ref": "D51",
+        "@timestamp": "2016-10-01T09:53:29Z",
+        "@version": "3",
+        "@changeset": "42560025",
+        "@user": "michael63",
+        "@uid": "462088"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7720125,
+          52.3096647
+        ]
+      },
+      "id": "node/255123786"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255123806",
+        "aeroway": "gate",
+        "layer": "1",
+        "ref": "D53",
+        "@timestamp": "2016-10-01T09:53:29Z",
+        "@version": "3",
+        "@changeset": "42560025",
+        "@user": "michael63",
+        "@uid": "462088"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7727421,
+          52.3096319
+        ]
+      },
+      "id": "node/255123806"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255123810",
+        "aeroway": "gate",
+        "layer": "1",
+        "ref": "D55",
+        "@timestamp": "2016-10-01T09:53:29Z",
+        "@version": "4",
+        "@changeset": "42560025",
+        "@user": "michael63",
+        "@uid": "462088"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7733053,
+          52.3096221
+        ]
+      },
+      "id": "node/255123810"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255123888",
+        "aeroway": "gate",
+        "layer": "1",
+        "ref": "D57",
+        "@timestamp": "2016-10-01T09:53:29Z",
+        "@version": "3",
+        "@changeset": "42560025",
+        "@user": "michael63",
+        "@uid": "462088"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7739565,
+          52.3096101
+        ]
+      },
+      "id": "node/255123888"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255124457",
+        "aeroway": "gate",
+        "layer": "1",
+        "ref": "D48",
+        "@timestamp": "2016-10-01T09:53:29Z",
+        "@version": "4",
+        "@changeset": "42560025",
+        "@user": "michael63",
+        "@uid": "462088"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.771475,
+          52.3093408
+        ]
+      },
+      "id": "node/255124457"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255124507",
+        "aeroway": "gate",
+        "layer": "1",
+        "ref": "D56",
+        "@timestamp": "2016-10-01T09:53:29Z",
+        "@version": "3",
+        "@changeset": "42560025",
+        "@user": "michael63",
+        "@uid": "462088"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7733751,
+          52.3092776
+        ]
+      },
+      "id": "node/255124507"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255124577",
+        "aeroway": "gate",
+        "layer": "1",
+        "ref": "D52",
+        "@timestamp": "2016-10-01T09:53:29Z",
+        "@version": "3",
+        "@changeset": "42560025",
+        "@user": "michael63",
+        "@uid": "462088"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7720915,
+          52.3093203
+        ]
+      },
+      "id": "node/255124577"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255124626",
+        "aeroway": "gate",
+        "layer": "1",
+        "ref": "D2",
+        "@timestamp": "2016-10-01T09:53:29Z",
+        "@version": "3",
+        "@changeset": "42560025",
+        "@user": "michael63",
+        "@uid": "462088"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7658863,
+          52.3083985
+        ]
+      },
+      "id": "node/255124626"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255124628",
+        "aeroway": "gate",
+        "layer": "1",
+        "ref": "D4",
+        "@timestamp": "2016-10-01T09:53:29Z",
+        "@version": "4",
+        "@changeset": "42560025",
+        "@user": "michael63",
+        "@uid": "462088"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7666214,
+          52.3083789
+        ]
+      },
+      "id": "node/255124628"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255124634",
+        "aeroway": "gate",
+        "layer": "1",
+        "ref": "D8",
+        "@timestamp": "2016-10-01T09:53:29Z",
+        "@version": "3",
+        "@changeset": "42560025",
+        "@user": "michael63",
+        "@uid": "462088"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7673508,
+          52.3083559
+        ]
+      },
+      "id": "node/255124634"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255124788",
+        "aeroway": "gate",
+        "layer": "1",
+        "ref": "D10",
+        "@timestamp": "2016-10-01T09:53:29Z",
+        "@version": "4",
+        "@changeset": "42560025",
+        "@user": "michael63",
+        "@uid": "462088"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.768837,
+          52.3081722
+        ]
+      },
+      "id": "node/255124788"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255124801",
+        "aeroway": "gate",
+        "layer": "1",
+        "ref": "D12",
+        "@timestamp": "2016-10-01T09:53:29Z",
+        "@version": "4",
+        "@changeset": "42560025",
+        "@user": "michael63",
+        "@uid": "462088"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7692017,
+          52.3078705
+        ]
+      },
+      "id": "node/255124801"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255124828",
+        "aeroway": "gate",
+        "layer": "1",
+        "ref": "D14",
+        "@timestamp": "2016-10-01T09:53:29Z",
+        "@version": "3",
+        "@changeset": "42560025",
+        "@user": "michael63",
+        "@uid": "462088"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7695202,
+          52.3075438
+        ]
+      },
+      "id": "node/255124828"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255124863",
+        "aeroway": "gate",
+        "layer": "1",
+        "ref": "D16",
+        "@timestamp": "2016-10-01T09:53:29Z",
+        "@version": "5",
+        "@changeset": "42560025",
+        "@user": "michael63",
+        "@uid": "462088"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7699472,
+          52.307385
+        ]
+      },
+      "id": "node/255124863"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255125003",
+        "aeroway": "gate",
+        "layer": "1",
+        "ref": "D18",
+        "@timestamp": "2016-10-01T09:53:29Z",
+        "@version": "4",
+        "@changeset": "42560025",
+        "@user": "michael63",
+        "@uid": "462088"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7705748,
+          52.3073654
+        ]
+      },
+      "id": "node/255125003"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255125225",
+        "aeroway": "gate",
+        "layer": "1",
+        "ref": "D22",
+        "@timestamp": "2016-10-01T09:53:29Z",
+        "@version": "4",
+        "@changeset": "42560025",
+        "@user": "michael63",
+        "@uid": "462088"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7712509,
+          52.3073424
+        ]
+      },
+      "id": "node/255125225"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255125254",
+        "aeroway": "gate",
+        "layer": "1",
+        "ref": "D28",
+        "@timestamp": "2016-10-01T09:53:29Z",
+        "@version": "4",
+        "@changeset": "42560025",
+        "@user": "michael63",
+        "@uid": "462088"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7731283,
+          52.3072833
+        ]
+      },
+      "id": "node/255125254"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255125278",
+        "aeroway": "gate",
+        "layer": "1",
+        "ref": "D26",
+        "@timestamp": "2016-10-01T09:53:29Z",
+        "@version": "5",
+        "@changeset": "42560025",
+        "@user": "michael63",
+        "@uid": "462088"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7724824,
+          52.3073017
+        ]
+      },
+      "id": "node/255125278"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255125355",
+        "aeroway": "gate",
+        "layer": "1",
+        "ref": "D24",
+        "@timestamp": "2016-10-01T09:53:29Z",
+        "@version": "3",
+        "@changeset": "42560025",
+        "@user": "michael63",
+        "@uid": "462088"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7718602,
+          52.3073188
+        ]
+      },
+      "id": "node/255125355"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255125491",
+        "aeroway": "gate",
+        "layer": "1",
+        "ref": "D31",
+        "@timestamp": "2016-10-01T09:53:29Z",
+        "@version": "3",
+        "@changeset": "42560025",
+        "@user": "michael63",
+        "@uid": "462088"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7737463,
+          52.3075799
+        ]
+      },
+      "id": "node/255125491"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255125620",
+        "aeroway": "gate",
+        "layer": "1",
+        "ref": "D27",
+        "@timestamp": "2016-10-01T09:53:30Z",
+        "@version": "4",
+        "@changeset": "42560025",
+        "@user": "michael63",
+        "@uid": "462088"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7719964,
+          52.307677
+        ]
+      },
+      "id": "node/255125620"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255125632",
+        "aeroway": "gate",
+        "layer": "1",
+        "ref": "D23",
+        "@timestamp": "2016-10-01T09:53:30Z",
+        "@version": "4",
+        "@changeset": "42560025",
+        "@user": "michael63",
+        "@uid": "462088"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7706896,
+          52.3077211
+        ]
+      },
+      "id": "node/255125632"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255125680",
+        "aeroway": "gate",
+        "ref": "C5",
+        "@timestamp": "2012-08-16T21:38:38Z",
+        "@version": "2",
+        "@changeset": "12756075",
+        "@user": "HarryB83",
+        "@uid": "810685"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7656635,
+          52.3062746
+        ]
+      },
+      "id": "node/255125680"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255125688",
+        "aeroway": "gate",
+        "ref": "C7",
+        "@timestamp": "2012-08-16T21:38:38Z",
+        "@version": "2",
+        "@changeset": "12756075",
+        "@user": "HarryB83",
+        "@uid": "810685"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7661213,
+          52.3058251
+        ]
+      },
+      "id": "node/255125688"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255125725",
+        "aeroway": "gate",
+        "ref": "C9",
+        "@timestamp": "2012-08-17T09:20:06Z",
+        "@version": "4",
+        "@changeset": "12760040",
+        "@user": "HarryB83",
+        "@uid": "810685"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.766983,
+          52.3053398
+        ]
+      },
+      "id": "node/255125725"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255125731",
+        "aeroway": "gate",
+        "ref": "C11",
+        "@timestamp": "2012-08-16T21:38:38Z",
+        "@version": "3",
+        "@changeset": "12756075",
+        "@user": "HarryB83",
+        "@uid": "810685"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7674283,
+          52.3052643
+        ]
+      },
+      "id": "node/255125731"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255125755",
+        "aeroway": "gate",
+        "ref": "C13",
+        "@timestamp": "2012-08-16T21:38:38Z",
+        "@version": "3",
+        "@changeset": "12756075",
+        "@user": "HarryB83",
+        "@uid": "810685"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7673478,
+          52.305084
+        ]
+      },
+      "id": "node/255125755"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255125756",
+        "aeroway": "gate",
+        "ref": "C18",
+        "@timestamp": "2012-08-17T09:20:06Z",
+        "@version": "4",
+        "@changeset": "12760040",
+        "@user": "HarryB83",
+        "@uid": "810685"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7666075,
+          52.3049789
+        ]
+      },
+      "id": "node/255125756"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255125785",
+        "aeroway": "gate",
+        "ref": "C16",
+        "@timestamp": "2012-08-17T09:20:07Z",
+        "@version": "4",
+        "@changeset": "12760040",
+        "@user": "HarryB83",
+        "@uid": "810685"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7663287,
+          52.304687
+        ]
+      },
+      "id": "node/255125785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255125800",
+        "aeroway": "gate",
+        "ref": "C14",
+        "@timestamp": "2012-08-17T09:20:07Z",
+        "@version": "3",
+        "@changeset": "12760040",
+        "@user": "HarryB83",
+        "@uid": "810685"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7660764,
+          52.3047166
+        ]
+      },
+      "id": "node/255125800"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255125804",
+        "aeroway": "gate",
+        "ref": "C12",
+        "@timestamp": "2012-08-17T09:20:06Z",
+        "@version": "3",
+        "@changeset": "12760040",
+        "@user": "HarryB83",
+        "@uid": "810685"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7661009,
+          52.3050661
+        ]
+      },
+      "id": "node/255125804"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255125891",
+        "aeroway": "gate",
+        "ref": "C10",
+        "@timestamp": "2012-08-17T09:20:06Z",
+        "@version": "3",
+        "@changeset": "12760040",
+        "@user": "HarryB83",
+        "@uid": "810685"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7659903,
+          52.3054839
+        ]
+      },
+      "id": "node/255125891"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255125934",
+        "aeroway": "gate",
+        "ref": "C8",
+        "@timestamp": "2012-08-17T09:20:07Z",
+        "@version": "4",
+        "@changeset": "12760040",
+        "@user": "HarryB83",
+        "@uid": "810685"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.765602,
+          52.3059051
+        ]
+      },
+      "id": "node/255125934"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255126283",
+        "aeroway": "gate",
+        "ref": "C4",
+        "@timestamp": "2012-08-17T09:20:07Z",
+        "@version": "4",
+        "@changeset": "12760040",
+        "@user": "HarryB83",
+        "@uid": "810685"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7649446,
+          52.3065206
+        ]
+      },
+      "id": "node/255126283"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255126303",
+        "aeroway": "gate",
+        "ref": "C6",
+        "@timestamp": "2012-08-17T09:20:07Z",
+        "@version": "3",
+        "@changeset": "12760040",
+        "@user": "HarryB83",
+        "@uid": "810685"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7652611,
+          52.306209
+        ]
+      },
+      "id": "node/255126303"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255126530",
+        "aeroway": "gate",
+        "ref": "B15",
+        "@timestamp": "2012-08-16T21:38:39Z",
+        "@version": "2",
+        "@changeset": "12756075",
+        "@user": "HarryB83",
+        "@uid": "810685"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7623189,
+          52.3047065
+        ]
+      },
+      "id": "node/255126530"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255126552",
+        "aeroway": "gate",
+        "ref": "B17",
+        "@timestamp": "2012-08-16T21:38:39Z",
+        "@version": "2",
+        "@changeset": "12756075",
+        "@user": "HarryB83",
+        "@uid": "810685"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7626473,
+          52.304374
+        ]
+      },
+      "id": "node/255126552"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255126553",
+        "aeroway": "gate",
+        "ref": "B23",
+        "@timestamp": "2012-08-16T21:38:39Z",
+        "@version": "3",
+        "@changeset": "12756075",
+        "@user": "HarryB83",
+        "@uid": "810685"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.762992,
+          52.3040343
+        ]
+      },
+      "id": "node/255126553"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255126554",
+        "aeroway": "gate",
+        "ref": "B27",
+        "@timestamp": "2012-08-16T21:38:40Z",
+        "@version": "3",
+        "@changeset": "12756075",
+        "@user": "HarryB83",
+        "@uid": "810685"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7633191,
+          52.3036866
+        ]
+      },
+      "id": "node/255126554"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255126603",
+        "aeroway": "gate",
+        "ref": "B31",
+        "@timestamp": "2012-08-16T21:38:40Z",
+        "@version": "2",
+        "@changeset": "12756075",
+        "@user": "HarryB83",
+        "@uid": "810685"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7636786,
+          52.3033585
+        ]
+      },
+      "id": "node/255126603"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255126609",
+        "aeroway": "gate",
+        "ref": "B35",
+        "@timestamp": "2012-08-16T21:38:40Z",
+        "@version": "3",
+        "@changeset": "12756075",
+        "@user": "HarryB83",
+        "@uid": "810685"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7638972,
+          52.3030927
+        ]
+      },
+      "id": "node/255126609"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255126612",
+        "aeroway": "gate",
+        "ref": "B16",
+        "@timestamp": "2012-08-16T21:38:40Z",
+        "@version": "3",
+        "@changeset": "12756075",
+        "@user": "HarryB83",
+        "@uid": "810685"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7617342,
+          52.3044901
+        ]
+      },
+      "id": "node/255126612"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255126618",
+        "aeroway": "gate",
+        "ref": "B20",
+        "@timestamp": "2012-08-16T21:38:40Z",
+        "@version": "2",
+        "@changeset": "12756075",
+        "@user": "HarryB83",
+        "@uid": "810685"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7620196,
+          52.3042237
+        ]
+      },
+      "id": "node/255126618"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255126624",
+        "aeroway": "gate",
+        "ref": "B24",
+        "@timestamp": "2012-08-16T21:38:40Z",
+        "@version": "2",
+        "@changeset": "12756075",
+        "@user": "HarryB83",
+        "@uid": "810685"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7623107,
+          52.3039523
+        ]
+      },
+      "id": "node/255126624"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255126658",
+        "aeroway": "gate",
+        "ref": "B28",
+        "@timestamp": "2012-08-16T21:38:40Z",
+        "@version": "2",
+        "@changeset": "12756075",
+        "@user": "HarryB83",
+        "@uid": "810685"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7625896,
+          52.3036833
+        ]
+      },
+      "id": "node/255126658"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1664141301",
+        "aeroway": "gate",
+        "ref": "H7",
+        "@timestamp": "2012-08-17T09:20:08Z",
+        "@version": "2",
+        "@changeset": "12760040",
+        "@user": "HarryB83",
+        "@uid": "810685"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7527456,
+          52.3093806
+        ]
+      },
+      "id": "node/1664141301"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1664141303",
+        "aeroway": "gate",
+        "ref": "H3",
+        "@timestamp": "2012-08-17T09:20:07Z",
+        "@version": "2",
+        "@changeset": "12760040",
+        "@user": "HarryB83",
+        "@uid": "810685"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7548913,
+          52.3102039
+        ]
+      },
+      "id": "node/1664141303"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1664141311",
+        "aeroway": "gate",
+        "ref": "H4",
+        "@timestamp": "2012-08-17T09:20:07Z",
+        "@version": "2",
+        "@changeset": "12760040",
+        "@user": "HarryB83",
+        "@uid": "810685"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7543688,
+          52.3099993
+        ]
+      },
+      "id": "node/1664141311"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1664141314",
+        "aeroway": "gate",
+        "ref": "H1",
+        "@timestamp": "2012-08-17T09:20:07Z",
+        "@version": "2",
+        "@changeset": "12760040",
+        "@user": "HarryB83",
+        "@uid": "810685"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7559782,
+          52.3106059
+        ]
+      },
+      "id": "node/1664141314"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1664141317",
+        "aeroway": "gate",
+        "ref": "H6",
+        "@timestamp": "2012-08-17T09:20:07Z",
+        "@version": "2",
+        "@changeset": "12760040",
+        "@user": "HarryB83",
+        "@uid": "810685"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7532874,
+          52.3095839
+        ]
+      },
+      "id": "node/1664141317"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1664141320",
+        "aeroway": "gate",
+        "ref": "H2",
+        "@timestamp": "2012-08-17T09:20:07Z",
+        "@version": "2",
+        "@changeset": "12760040",
+        "@user": "HarryB83",
+        "@uid": "810685"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7554439,
+          52.3104105
+        ]
+      },
+      "id": "node/1664141320"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1664141322",
+        "aeroway": "gate",
+        "ref": "H5",
+        "@timestamp": "2012-08-17T09:20:08Z",
+        "@version": "2",
+        "@changeset": "12760040",
+        "@user": "HarryB83",
+        "@uid": "810685"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7538184,
+          52.309784
+        ]
+      },
+      "id": "node/1664141322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1869176809",
+        "aeroway": "gate",
+        "ref": "B22",
+        "@timestamp": "2012-08-16T21:38:29Z",
+        "@version": "1",
+        "@changeset": "12756075",
+        "@user": "HarryB83",
+        "@uid": "810685"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.762112,
+          52.3042246
+        ]
+      },
+      "id": "node/1869176809"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1869176823",
+        "aeroway": "gate",
+        "ref": "B18",
+        "@timestamp": "2012-08-16T21:38:30Z",
+        "@version": "1",
+        "@changeset": "12756075",
+        "@user": "HarryB83",
+        "@uid": "810685"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.761828,
+          52.3044903
+        ]
+      },
+      "id": "node/1869176823"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1869176836",
+        "aeroway": "gate",
+        "ref": "B34",
+        "@timestamp": "2015-04-25T03:47:43Z",
+        "@version": "2",
+        "@changeset": "30466183",
+        "@user": "Alkmaarder",
+        "@uid": "2800968"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7629886,
+          52.3033002
+        ]
+      },
+      "id": "node/1869176836"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1869176895",
+        "aeroway": "gate",
+        "ref": "B13",
+        "@timestamp": "2012-08-16T21:38:31Z",
+        "@version": "1",
+        "@changeset": "12756075",
+        "@user": "HarryB83",
+        "@uid": "810685"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7620208,
+          52.3050512
+        ]
+      },
+      "id": "node/1869176895"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1869176907",
+        "aeroway": "gate",
+        "ref": "B36",
+        "@timestamp": "2016-10-12T11:53:20Z",
+        "@version": "2",
+        "@changeset": "42828224",
+        "@user": "Alsoft",
+        "@uid": "235254"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7631742,
+          52.3030995
+        ]
+      },
+      "id": "node/1869176907"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1869176913",
+        "aeroway": "gate",
+        "ref": "C15",
+        "@timestamp": "2012-08-17T09:20:08Z",
+        "@version": "2",
+        "@changeset": "12760040",
+        "@user": "HarryB83",
+        "@uid": "810685"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7668166,
+          52.3050545
+        ]
+      },
+      "id": "node/1869176913"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1869176955",
+        "aeroway": "gate",
+        "ref": "B30",
+        "@timestamp": "2012-08-16T21:38:32Z",
+        "@version": "1",
+        "@changeset": "12756075",
+        "@user": "HarryB83",
+        "@uid": "810685"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7626809,
+          52.3036832
+        ]
+      },
+      "id": "node/1869176955"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1869177012",
+        "aeroway": "gate",
+        "ref": "B32",
+        "@timestamp": "2012-08-16T21:38:33Z",
+        "@version": "1",
+        "@changeset": "12756075",
+        "@user": "HarryB83",
+        "@uid": "810685"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7628577,
+          52.3034078
+        ]
+      },
+      "id": "node/1869177012"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1869177019",
+        "aeroway": "gate",
+        "ref": "B26",
+        "@timestamp": "2012-08-16T21:38:33Z",
+        "@version": "1",
+        "@changeset": "12756075",
+        "@user": "HarryB83",
+        "@uid": "810685"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7624017,
+          52.3039524
+        ]
+      },
+      "id": "node/1869177019"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1869873856",
+        "aeroway": "gate",
+        "ref": "E3",
+        "@timestamp": "2012-08-17T09:19:59Z",
+        "@version": "1",
+        "@changeset": "12760040",
+        "@user": "HarryB83",
+        "@uid": "810685"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7654679,
+          52.3109568
+        ]
+      },
+      "id": "node/1869873856"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1869873887",
+        "aeroway": "gate",
+        "ref": "E18",
+        "@timestamp": "2012-08-17T09:20:00Z",
+        "@version": "1",
+        "@changeset": "12760040",
+        "@user": "HarryB83",
+        "@uid": "810685"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7675815,
+          52.312167
+        ]
+      },
+      "id": "node/1869873887"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1869873893",
+        "aeroway": "gate",
+        "layer": "1",
+        "ref": "D6",
+        "source": "Schiphol",
+        "@timestamp": "2016-10-01T09:53:22Z",
+        "@version": "2",
+        "@changeset": "42560025",
+        "@user": "michael63",
+        "@uid": "462088"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7673511,
+          52.3086018
+        ]
+      },
+      "id": "node/1869873893"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2059558368",
+        "aeroway": "parking_position",
+        "ref": "P16",
+        "@timestamp": "2016-10-01T09:53:22Z",
+        "@version": "2",
+        "@changeset": "42560025",
+        "@user": "michael63",
+        "@uid": "462088"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7440978,
+          52.3098826
+        ]
+      },
+      "id": "node/2059558368"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2059558369",
+        "aeroway": "parking_position",
+        "ref": "P12",
+        "@timestamp": "2016-10-01T09:53:22Z",
+        "@version": "2",
+        "@changeset": "42560025",
+        "@user": "michael63",
+        "@uid": "462088"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7442373,
+          52.3120144
+        ]
+      },
+      "id": "node/2059558369"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2059558370",
+        "aeroway": "parking_position",
+        "ref": "P14",
+        "@timestamp": "2016-10-01T09:53:22Z",
+        "@version": "2",
+        "@changeset": "42560025",
+        "@user": "michael63",
+        "@uid": "462088"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7441943,
+          52.3110699
+        ]
+      },
+      "id": "node/2059558370"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2059558371",
+        "aeroway": "parking_position",
+        "ref": "P10",
+        "@timestamp": "2016-10-01T09:53:22Z",
+        "@version": "2",
+        "@changeset": "42560025",
+        "@user": "michael63",
+        "@uid": "462088"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7443767,
+          52.3129327
+        ]
+      },
+      "id": "node/2059558371"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2066153572",
+        "aeroway": "parking_position",
+        "ref": "R87R",
+        "@timestamp": "2016-10-12T11:53:20Z",
+        "@version": "3",
+        "@changeset": "42828224",
+        "@user": "Alsoft",
+        "@uid": "235254"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7504687,
+          52.2978731
+        ]
+      },
+      "id": "node/2066153572"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2066153573",
+        "aeroway": "parking_position",
+        "ref": "R81R",
+        "@timestamp": "2016-10-12T11:53:20Z",
+        "@version": "3",
+        "@changeset": "42828224",
+        "@user": "Alsoft",
+        "@uid": "235254"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7459411,
+          52.2962196
+        ]
+      },
+      "id": "node/2066153573"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2066153574",
+        "aeroway": "parking_position",
+        "ref": "R72R+",
+        "@timestamp": "2016-10-12T11:53:20Z",
+        "@version": "3",
+        "@changeset": "42828224",
+        "@user": "Alsoft",
+        "@uid": "235254"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7415744,
+          52.2945464
+        ]
+      },
+      "id": "node/2066153574"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2066153575",
+        "aeroway": "parking_position",
+        "ref": "R85R",
+        "@timestamp": "2016-10-12T11:53:20Z",
+        "@version": "3",
+        "@changeset": "42828224",
+        "@user": "Alsoft",
+        "@uid": "235254"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7496426,
+          52.2976172
+        ]
+      },
+      "id": "node/2066153575"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2066153576",
+        "aeroway": "parking_position",
+        "ref": "R74R",
+        "@timestamp": "2016-10-12T11:53:20Z",
+        "@version": "3",
+        "@changeset": "42828224",
+        "@user": "Alsoft",
+        "@uid": "235254"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7425422,
+          52.2949236
+        ]
+      },
+      "id": "node/2066153576"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2066153577",
+        "aeroway": "parking_position",
+        "ref": "R86R",
+        "@timestamp": "2016-10-12T11:53:20Z",
+        "@version": "3",
+        "@changeset": "42828224",
+        "@user": "Alsoft",
+        "@uid": "235254"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.750061,
+          52.2977812
+        ]
+      },
+      "id": "node/2066153577"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2066153578",
+        "aeroway": "parking_position",
+        "ref": "R84R",
+        "@timestamp": "2016-10-12T11:53:21Z",
+        "@version": "3",
+        "@changeset": "42828224",
+        "@user": "Alsoft",
+        "@uid": "235254"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7486663,
+          52.2972366
+        ]
+      },
+      "id": "node/2066153578"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2066153580",
+        "aeroway": "parking_position",
+        "ref": "R82R",
+        "@timestamp": "2016-10-12T11:53:21Z",
+        "@version": "3",
+        "@changeset": "42828224",
+        "@user": "Alsoft",
+        "@uid": "235254"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7468316,
+          52.2966001
+        ]
+      },
+      "id": "node/2066153580"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2066153581",
+        "aeroway": "parking_position",
+        "ref": "R77R",
+        "@timestamp": "2016-10-12T11:53:21Z",
+        "@version": "3",
+        "@changeset": "42828224",
+        "@user": "Alsoft",
+        "@uid": "235254"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7436345,
+          52.2953403
+        ]
+      },
+      "id": "node/2066153581"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2066153582",
+        "aeroway": "parking_position",
+        "ref": "R83R",
+        "@timestamp": "2016-10-12T11:53:21Z",
+        "@version": "3",
+        "@changeset": "42828224",
+        "@user": "Alsoft",
+        "@uid": "235254"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7477425,
+          52.296902
+        ]
+      },
+      "id": "node/2066153582"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2066153583",
+        "aeroway": "parking_position",
+        "ref": "R80R",
+        "@timestamp": "2016-10-12T11:53:21Z",
+        "@version": "3",
+        "@changeset": "42828224",
+        "@user": "Alsoft",
+        "@uid": "235254"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7450291,
+          52.2958653
+        ]
+      },
+      "id": "node/2066153583"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2066159992",
+        "aeroway": "parking_position",
+        "ref": "S87R",
+        "@timestamp": "2016-10-12T11:53:21Z",
+        "@version": "4",
+        "@changeset": "42828224",
+        "@user": "Alsoft",
+        "@uid": "235254"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7651967,
+          52.2960464
+        ]
+      },
+      "id": "node/2066159992"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2066159998",
+        "aeroway": "parking_position",
+        "ref": "S92R",
+        "@timestamp": "2016-10-12T11:53:21Z",
+        "@version": "4",
+        "@changeset": "42828224",
+        "@user": "Alsoft",
+        "@uid": "235254"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7671065,
+          52.296794
+        ]
+      },
+      "id": "node/2066159998"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2066160003",
+        "aeroway": "parking_position",
+        "ref": "S84R",
+        "@timestamp": "2016-10-12T11:53:21Z",
+        "@version": "4",
+        "@changeset": "42828224",
+        "@user": "Alsoft",
+        "@uid": "235254"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7642365,
+          52.2956819
+        ]
+      },
+      "id": "node/2066160003"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2066160005",
+        "aeroway": "parking_position",
+        "ref": "S79R",
+        "@timestamp": "2016-10-12T11:53:21Z",
+        "@version": "4",
+        "@changeset": "42828224",
+        "@user": "Alsoft",
+        "@uid": "235254"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7622866,
+          52.2950024
+        ]
+      },
+      "id": "node/2066160005"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2066160008",
+        "aeroway": "parking_position",
+        "ref": "S82R",
+        "@timestamp": "2016-10-12T11:53:21Z",
+        "@version": "4",
+        "@changeset": "42828224",
+        "@user": "Alsoft",
+        "@uid": "235254"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7632629,
+          52.2953371
+        ]
+      },
+      "id": "node/2066160008"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2066160010",
+        "aeroway": "parking_position",
+        "ref": "S96R +",
+        "@timestamp": "2016-10-01T09:53:23Z",
+        "@version": "3",
+        "@changeset": "42560025",
+        "@user": "michael63",
+        "@uid": "462088"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7690725,
+          52.2974794
+        ]
+      },
+      "id": "node/2066160010"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2066160015",
+        "aeroway": "parking_position",
+        "ref": "S94R",
+        "@timestamp": "2016-10-01T09:53:23Z",
+        "@version": "3",
+        "@changeset": "42560025",
+        "@user": "michael63",
+        "@uid": "462088"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7680238,
+          52.2970959
+        ]
+      },
+      "id": "node/2066160015"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2066160017",
+        "aeroway": "parking_position",
+        "ref": "S74R",
+        "@timestamp": "2016-10-12T11:53:21Z",
+        "@version": "4",
+        "@changeset": "42828224",
+        "@user": "Alsoft",
+        "@uid": "235254"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7603902,
+          52.2942018
+        ]
+      },
+      "id": "node/2066160017"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2066160019",
+        "aeroway": "parking_position",
+        "ref": "S77R",
+        "@timestamp": "2016-10-12T11:53:21Z",
+        "@version": "4",
+        "@changeset": "42828224",
+        "@user": "Alsoft",
+        "@uid": "235254"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7613343,
+          52.294571
+        ]
+      },
+      "id": "node/2066160019"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2066160021",
+        "aeroway": "parking_position",
+        "ref": "S72R",
+        "@timestamp": "2016-10-12T11:53:21Z",
+        "@version": "3",
+        "@changeset": "42828224",
+        "@user": "Alsoft",
+        "@uid": "235254"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7594139,
+          52.2938327
+        ]
+      },
+      "id": "node/2066160021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2066162949",
+        "aeroway": "parking_position",
+        "ref": "S90R",
+        "@timestamp": "2016-10-12T11:53:21Z",
+        "@version": "3",
+        "@changeset": "42828224",
+        "@user": "Alsoft",
+        "@uid": "235254"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7661382,
+          52.2964197
+        ]
+      },
+      "id": "node/2066162949"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2066172310",
+        "aeroway": "parking_position",
+        "ref": "G76R",
+        "@timestamp": "2016-10-12T11:56:55Z",
+        "@version": "4",
+        "@changeset": "42828302",
+        "@user": "Alsoft",
+        "@uid": "235254"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7531407,
+          52.3127512
+        ]
+      },
+      "id": "node/2066172310"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2066172313",
+        "aeroway": "parking_position",
+        "ref": "G80R",
+        "@timestamp": "2016-10-12T11:56:55Z",
+        "@version": "3",
+        "@changeset": "42828302",
+        "@user": "Alsoft",
+        "@uid": "235254"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7530329,
+          52.313578
+        ]
+      },
+      "id": "node/2066172313"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2066172314",
+        "aeroway": "parking_position",
+        "ref": "g72R",
+        "@timestamp": "2016-10-12T11:56:55Z",
+        "@version": "4",
+        "@changeset": "42828302",
+        "@user": "Alsoft",
+        "@uid": "235254"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7532156,
+          52.3119415
+        ]
+      },
+      "id": "node/2066172314"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2066172315",
+        "aeroway": "parking_position",
+        "ref": "G74R",
+        "@timestamp": "2016-10-12T11:56:55Z",
+        "@version": "4",
+        "@changeset": "42828302",
+        "@user": "Alsoft",
+        "@uid": "235254"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.753173,
+          52.3122593
+        ]
+      },
+      "id": "node/2066172315"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2066172318",
+        "aeroway": "parking_position",
+        "ref": "G75R",
+        "@timestamp": "2016-10-12T11:56:55Z",
+        "@version": "4",
+        "@changeset": "42828302",
+        "@user": "Alsoft",
+        "@uid": "235254"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7531729,
+          52.3125941
+        ]
+      },
+      "id": "node/2066172318"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2066172321",
+        "aeroway": "parking_position",
+        "ref": "G78R",
+        "@timestamp": "2016-10-12T11:56:55Z",
+        "@version": "4",
+        "@changeset": "42828302",
+        "@user": "Alsoft",
+        "@uid": "235254"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7530763,
+          52.3132369
+        ]
+      },
+      "id": "node/2066172321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2066172323",
+        "aeroway": "parking_position",
+        "ref": "G79R",
+        "@timestamp": "2016-10-01T09:53:24Z",
+        "@version": "3",
+        "@changeset": "42560025",
+        "@user": "michael63",
+        "@uid": "462088"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7530973,
+          52.3133878
+        ]
+      },
+      "id": "node/2066172323"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2066172329",
+        "aeroway": "parking_position",
+        "ref": "G77R",
+        "@timestamp": "2016-10-12T11:56:55Z",
+        "@version": "4",
+        "@changeset": "42828302",
+        "@user": "Alsoft",
+        "@uid": "235254"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7531193,
+          52.3129152
+        ]
+      },
+      "id": "node/2066172329"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2066172330",
+        "aeroway": "parking_position",
+        "ref": "G71R",
+        "@timestamp": "2016-10-12T11:56:55Z",
+        "@version": "4",
+        "@changeset": "42828302",
+        "@user": "Alsoft",
+        "@uid": "235254"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.753237,
+          52.3115381
+        ]
+      },
+      "id": "node/2066172330"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2066172331",
+        "aeroway": "parking_position",
+        "ref": "G73R",
+        "@timestamp": "2016-10-12T11:56:55Z",
+        "@version": "4",
+        "@changeset": "42828302",
+        "@user": "Alsoft",
+        "@uid": "235254"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7531836,
+          52.3120953
+        ]
+      },
+      "id": "node/2066172331"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2066184187",
+        "aeroway": "parking_position",
+        "ref": "J85L",
+        "@timestamp": "2016-10-12T11:56:55Z",
+        "@version": "3",
+        "@changeset": "42828302",
+        "@user": "Alsoft",
+        "@uid": "235254"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7471427,
+          52.3109675
+        ]
+      },
+      "id": "node/2066184187"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2066184188",
+        "aeroway": "parking_position",
+        "ref": "J87L+",
+        "@timestamp": "2016-10-01T09:53:24Z",
+        "@version": "2",
+        "@changeset": "42560025",
+        "@user": "michael63",
+        "@uid": "462088"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7470784,
+          52.3096424
+        ]
+      },
+      "id": "node/2066184188"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2066184189",
+        "aeroway": "parking_position",
+        "ref": "J84L",
+        "@timestamp": "2016-10-01T09:53:24Z",
+        "@version": "2",
+        "@changeset": "42560025",
+        "@user": "michael63",
+        "@uid": "462088"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7471589,
+          52.3116135
+        ]
+      },
+      "id": "node/2066184189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2066184190",
+        "aeroway": "parking_position",
+        "ref": "J80L",
+        "@timestamp": "2016-10-12T11:56:55Z",
+        "@version": "3",
+        "@changeset": "42828302",
+        "@user": "Alsoft",
+        "@uid": "235254"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7473037,
+          52.3132075
+        ]
+      },
+      "id": "node/2066184190"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2066184191",
+        "aeroway": "parking_position",
+        "ref": "J86L",
+        "@timestamp": "2016-10-01T09:53:24Z",
+        "@version": "2",
+        "@changeset": "42560025",
+        "@user": "michael63",
+        "@uid": "462088"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7471052,
+          52.3102984
+        ]
+      },
+      "id": "node/2066184191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2066184192",
+        "aeroway": "parking_position",
+        "ref": "J82L",
+        "@timestamp": "2016-10-01T09:53:24Z",
+        "@version": "2",
+        "@changeset": "42560025",
+        "@user": "michael63",
+        "@uid": "462088"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7472876,
+          52.3128139
+        ]
+      },
+      "id": "node/2066184192"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2066184193",
+        "aeroway": "parking_position",
+        "ref": "J81L",
+        "@timestamp": "2016-10-12T11:56:55Z",
+        "@version": "3",
+        "@changeset": "42828302",
+        "@user": "Alsoft",
+        "@uid": "235254"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7472876,
+          52.3130106
+        ]
+      },
+      "id": "node/2066184193"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2066184194",
+        "aeroway": "parking_position",
+        "ref": "J83L",
+        "@timestamp": "2016-10-01T09:53:24Z",
+        "@version": "2",
+        "@changeset": "42560025",
+        "@user": "michael63",
+        "@uid": "462088"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7472071,
+          52.3122596
+        ]
+      },
+      "id": "node/2066184194"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2066230234",
+        "aeroway": "parking_position",
+        "ref": "B95L",
+        "@timestamp": "2019-08-16T19:23:58Z",
+        "@version": "4",
+        "@changeset": "73427858",
+        "@user": "Henkinator023",
+        "@uid": "3169349"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7601582,
+          52.3033473
+        ]
+      },
+      "id": "node/2066230234"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2066230237",
+        "aeroway": "parking_position",
+        "ref": "A33L",
+        "@timestamp": "2018-08-21T15:43:23Z",
+        "@version": "4",
+        "@changeset": "61860627",
+        "@user": "Dung3onMast3r",
+        "@uid": "1649006"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7526712,
+          52.2997471
+        ]
+      },
+      "id": "node/2066230237"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2066230240",
+        "aeroway": "parking_position",
+        "ref": "B93L",
+        "@timestamp": "2019-08-16T19:23:58Z",
+        "@version": "4",
+        "@changeset": "73427858",
+        "@user": "Henkinator023",
+        "@uid": "3169349"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7607295,
+          52.3027733
+        ]
+      },
+      "id": "node/2066230240"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2066230249",
+        "aeroway": "parking_position",
+        "ref": "A56",
+        "@timestamp": "2019-08-16T19:23:58Z",
+        "@version": "4",
+        "@changeset": "73427858",
+        "@user": "Henkinator023",
+        "@uid": "3169349"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7541137,
+          52.3014599
+        ]
+      },
+      "id": "node/2066230249"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2066230256",
+        "aeroway": "parking_position",
+        "ref": "A73L",
+        "@timestamp": "2019-08-16T19:23:58Z",
+        "@version": "3",
+        "@changeset": "73427858",
+        "@user": "Henkinator023",
+        "@uid": "3169349"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7569141,
+          52.301352
+        ]
+      },
+      "id": "node/2066230256"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2066230259",
+        "aeroway": "parking_position",
+        "ref": "A53",
+        "@timestamp": "2019-08-16T19:23:58Z",
+        "@version": "4",
+        "@changeset": "73427858",
+        "@user": "Henkinator023",
+        "@uid": "3169349"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7549728,
+          52.3006002
+        ]
+      },
+      "id": "node/2066230259"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2066230265",
+        "aeroway": "parking_position",
+        "ref": "A54",
+        "@timestamp": "2019-08-16T19:23:58Z",
+        "@version": "4",
+        "@changeset": "73427858",
+        "@user": "Henkinator023",
+        "@uid": "3169349"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7546761,
+          52.3008908
+        ]
+      },
+      "id": "node/2066230265"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2066230269",
+        "aeroway": "parking_position",
+        "ref": "A71L",
+        "@timestamp": "2019-08-16T19:23:58Z",
+        "@version": "4",
+        "@changeset": "73427858",
+        "@user": "Henkinator023",
+        "@uid": "3169349"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7575095,
+          52.3007878
+        ]
+      },
+      "id": "node/2066230269"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2066230271",
+        "aeroway": "parking_position",
+        "ref": "A35L",
+        "@timestamp": "2018-08-21T15:43:23Z",
+        "@version": "4",
+        "@changeset": "61860627",
+        "@user": "Dung3onMast3r",
+        "@uid": "1649006"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7520864,
+          52.3003292
+        ]
+      },
+      "id": "node/2066230271"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2066230274",
+        "aeroway": "parking_position",
+        "ref": "A72L",
+        "@timestamp": "2019-08-16T19:23:58Z",
+        "@version": "3",
+        "@changeset": "73427858",
+        "@user": "Henkinator023",
+        "@uid": "3169349"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7572091,
+          52.3010765
+        ]
+      },
+      "id": "node/2066230274"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2066230294",
+        "aeroway": "parking_position",
+        "ref": "B91L",
+        "@timestamp": "2019-08-16T19:23:58Z",
+        "@version": "4",
+        "@changeset": "73427858",
+        "@user": "Henkinator023",
+        "@uid": "3169349"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7612981,
+          52.3022139
+        ]
+      },
+      "id": "node/2066230294"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2066230311",
+        "aeroway": "parking_position",
+        "ref": "B92L",
+        "@timestamp": "2019-08-16T19:23:58Z",
+        "@version": "4",
+        "@changeset": "73427858",
+        "@user": "Henkinator023",
+        "@uid": "3169349"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7610165,
+          52.3024928
+        ]
+      },
+      "id": "node/2066230311"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2066230314",
+        "aeroway": "parking_position",
+        "ref": "A52",
+        "@timestamp": "2019-08-16T19:23:58Z",
+        "@version": "4",
+        "@changeset": "73427858",
+        "@user": "Henkinator023",
+        "@uid": "3169349"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7553148,
+          52.3002921
+        ]
+      },
+      "id": "node/2066230314"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2066230323",
+        "aeroway": "parking_position",
+        "ref": "A75L",
+        "@timestamp": "2019-08-16T19:23:58Z",
+        "@version": "3",
+        "@changeset": "73427858",
+        "@user": "Henkinator023",
+        "@uid": "3169349"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7563374,
+          52.3019163
+        ]
+      },
+      "id": "node/2066230323"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2066230335",
+        "aeroway": "parking_position",
+        "ref": "A55",
+        "@timestamp": "2019-08-16T19:23:58Z",
+        "@version": "4",
+        "@changeset": "73427858",
+        "@user": "Henkinator023",
+        "@uid": "3169349"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7543946,
+          52.3011732
+        ]
+      },
+      "id": "node/2066230335"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2066230337",
+        "aeroway": "parking_position",
+        "ref": "A34L",
+        "@timestamp": "2018-08-21T15:43:23Z",
+        "@version": "4",
+        "@changeset": "61860627",
+        "@user": "Dung3onMast3r",
+        "@uid": "1649006"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7523709,
+          52.3000315
+        ]
+      },
+      "id": "node/2066230337"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2066230339",
+        "aeroway": "parking_position",
+        "ref": "A32L",
+        "@timestamp": "2018-08-21T15:43:24Z",
+        "@version": "4",
+        "@changeset": "61860627",
+        "@user": "Dung3onMast3r",
+        "@uid": "1649006"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7529607,
+          52.2994682
+        ]
+      },
+      "id": "node/2066230339"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2066230341",
+        "aeroway": "parking_position",
+        "ref": "B94L",
+        "@timestamp": "2019-08-16T19:23:58Z",
+        "@version": "4",
+        "@changeset": "73427858",
+        "@user": "Henkinator023",
+        "@uid": "3169349"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7604452,
+          52.3030636
+        ]
+      },
+      "id": "node/2066230341"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2066230359",
+        "aeroway": "parking_position",
+        "ref": "A51",
+        "@timestamp": "2019-08-16T19:23:58Z",
+        "@version": "4",
+        "@changeset": "73427858",
+        "@user": "Henkinator023",
+        "@uid": "3169349"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7555802,
+          52.300017
+        ]
+      },
+      "id": "node/2066230359"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2066230362",
+        "aeroway": "parking_position",
+        "ref": "A74L",
+        "@timestamp": "2019-08-16T19:23:58Z",
+        "@version": "3",
+        "@changeset": "73427858",
+        "@user": "Henkinator023",
+        "@uid": "3169349"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7566485,
+          52.3016391
+        ]
+      },
+      "id": "node/2066230362"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2066230365",
+        "aeroway": "parking_position",
+        "ref": "A31L",
+        "@timestamp": "2018-08-21T15:43:24Z",
+        "@version": "4",
+        "@changeset": "61860627",
+        "@user": "Dung3onMast3r",
+        "@uid": "1649006"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7532477,
+          52.2992305
+        ]
+      },
+      "id": "node/2066230365"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2066242684",
+        "aeroway": "parking_position",
+        "ref": "K11",
+        "@timestamp": "2020-01-22T11:51:34Z",
+        "@version": "3",
+        "@changeset": "79913818",
+        "@user": "Crashtender",
+        "@uid": "677913"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.802964,
+          52.3109776
+        ]
+      },
+      "id": "node/2066242684"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2066242698",
+        "aeroway": "parking_position",
+        "ref": "K12",
+        "@timestamp": "2020-01-22T11:51:34Z",
+        "@version": "3",
+        "@changeset": "79913818",
+        "@user": "Crashtender",
+        "@uid": "677913"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.803243,
+          52.3111888
+        ]
+      },
+      "id": "node/2066242698"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2066244551",
+        "aeroway": "parking_position",
+        "ref": "M76",
+        "@timestamp": "2016-10-01T09:53:27Z",
+        "@version": "2",
+        "@changeset": "42560025",
+        "@user": "michael63",
+        "@uid": "462088"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7917318,
+          52.3021705
+        ]
+      },
+      "id": "node/2066244551"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2066244552",
+        "aeroway": "parking_position",
+        "ref": "M71",
+        "@timestamp": "2016-10-01T09:53:27Z",
+        "@version": "2",
+        "@changeset": "42560025",
+        "@user": "michael63",
+        "@uid": "462088"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7891676,
+          52.3003072
+        ]
+      },
+      "id": "node/2066244552"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2066244553",
+        "aeroway": "parking_position",
+        "ref": "M74",
+        "@timestamp": "2016-10-01T09:53:27Z",
+        "@version": "2",
+        "@changeset": "42560025",
+        "@user": "michael63",
+        "@uid": "462088"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7910344,
+          52.3016391
+        ]
+      },
+      "id": "node/2066244553"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2066244554",
+        "aeroway": "parking_position",
+        "ref": "M73",
+        "@timestamp": "2016-10-01T09:53:27Z",
+        "@version": "2",
+        "@changeset": "42560025",
+        "@user": "michael63",
+        "@uid": "462088"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7904234,
+          52.3012845
+        ]
+      },
+      "id": "node/2066244554"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2066244555",
+        "aeroway": "parking_position",
+        "ref": "M77",
+        "@timestamp": "2016-10-01T09:53:27Z",
+        "@version": "2",
+        "@changeset": "42560025",
+        "@user": "michael63",
+        "@uid": "462088"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7922039,
+          52.3024723
+        ]
+      },
+      "id": "node/2066244555"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2066244556",
+        "aeroway": "parking_position",
+        "ref": "M75",
+        "@timestamp": "2016-10-01T09:53:27Z",
+        "@version": "2",
+        "@changeset": "42560025",
+        "@user": "michael63",
+        "@uid": "462088"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.791485,
+          52.3019605
+        ]
+      },
+      "id": "node/2066244556"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2066244557",
+        "aeroway": "parking_position",
+        "ref": "M72",
+        "@timestamp": "2016-10-01T09:53:27Z",
+        "@version": "2",
+        "@changeset": "42560025",
+        "@user": "michael63",
+        "@uid": "462088"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7897475,
+          52.300819
+        ]
+      },
+      "id": "node/2066244557"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2066250582",
+        "aeroway": "parking_position",
+        "ref": "BAY2",
+        "@timestamp": "2016-10-01T09:53:28Z",
+        "@version": "2",
+        "@changeset": "42560025",
+        "@user": "michael63",
+        "@uid": "462088"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7900366,
+          52.2970529
+        ]
+      },
+      "id": "node/2066250582"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2066250583",
+        "aeroway": "parking_position",
+        "ref": "BAY2",
+        "@timestamp": "2016-10-01T09:53:28Z",
+        "@version": "2",
+        "@changeset": "42560025",
+        "@user": "michael63",
+        "@uid": "462088"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7891354,
+          52.297545
+        ]
+      },
+      "id": "node/2066250583"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2066250584",
+        "aeroway": "parking_position",
+        "ref": "BAY2",
+        "@timestamp": "2016-10-01T09:53:28Z",
+        "@version": "2",
+        "@changeset": "42560025",
+        "@user": "michael63",
+        "@uid": "462088"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.794532,
+          52.3010224
+        ]
+      },
+      "id": "node/2066250584"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2066250585",
+        "aeroway": "parking_position",
+        "ref": "BAY1",
+        "@timestamp": "2016-10-01T09:53:28Z",
+        "@version": "2",
+        "@changeset": "42560025",
+        "@user": "michael63",
+        "@uid": "462088"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7934591,
+          52.30158
+        ]
+      },
+      "id": "node/2066250585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2066250586",
+        "aeroway": "parking_position",
+        "ref": "BAY1",
+        "@timestamp": "2016-10-01T09:53:28Z",
+        "@version": "2",
+        "@changeset": "42560025",
+        "@user": "michael63",
+        "@uid": "462088"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7881376,
+          52.2980043
+        ]
+      },
+      "id": "node/2066250586"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2066251627",
+        "aeroway": "parking_position",
+        "ref": "BAY1",
+        "@timestamp": "2016-10-01T09:53:28Z",
+        "@version": "2",
+        "@changeset": "42560025",
+        "@user": "michael63",
+        "@uid": "462088"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.800272,
+          52.3068152
+        ]
+      },
+      "id": "node/2066251627"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2066251628",
+        "aeroway": "parking_position",
+        "ref": "DECO BAY",
+        "@timestamp": "2016-10-01T09:53:28Z",
+        "@version": "2",
+        "@changeset": "42560025",
+        "@user": "michael63",
+        "@uid": "462088"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.798845,
+          52.3057459
+        ]
+      },
+      "id": "node/2066251628"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2066251629",
+        "aeroway": "parking_position",
+        "ref": "BAY2",
+        "@timestamp": "2016-10-01T09:53:28Z",
+        "@version": "2",
+        "@changeset": "42560025",
+        "@user": "michael63",
+        "@uid": "462088"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7995317,
+          52.3063101
+        ]
+      },
+      "id": "node/2066251629"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4281310625",
+        "aeroway": "parking_position",
+        "ref": "U23",
+        "@timestamp": "2020-10-11T12:40:18Z",
+        "@version": "3",
+        "@changeset": "92300680",
+        "@user": "TWHB",
+        "@uid": "6556551"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7457037,
+          52.3243062
+        ]
+      },
+      "id": "node/4281310625"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4281310632",
+        "aeroway": "parking_position",
+        "ref": "U26",
+        "@timestamp": "2020-10-11T12:40:18Z",
+        "@version": "3",
+        "@changeset": "92300680",
+        "@user": "TWHB",
+        "@uid": "6556551"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7458075,
+          52.3253127
+        ]
+      },
+      "id": "node/4281310632"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4281310648",
+        "aeroway": "parking_position",
+        "ref": "U32",
+        "@timestamp": "2020-10-11T12:40:18Z",
+        "@version": "3",
+        "@changeset": "92300680",
+        "@user": "TWHB",
+        "@uid": "6556551"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7459949,
+          52.32732
+        ]
+      },
+      "id": "node/4281310648"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4281471668",
+        "aeroway": "parking_position",
+        "@timestamp": "2016-07-04T05:53:16Z",
+        "@version": "1",
+        "@changeset": "40470757",
+        "@user": "Alkmaarder",
+        "@uid": "2800968"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7978805,
+          52.3150261
+        ]
+      },
+      "id": "node/4281471668"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4281471669",
+        "aeroway": "parking_position",
+        "@timestamp": "2016-07-04T05:53:16Z",
+        "@version": "1",
+        "@changeset": "40470757",
+        "@user": "Alkmaarder",
+        "@uid": "2800968"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7983835,
+          52.3148126
+        ]
+      },
+      "id": "node/4281471669"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4281471670",
+        "aeroway": "parking_position",
+        "@timestamp": "2016-07-04T05:53:16Z",
+        "@version": "1",
+        "@changeset": "40470757",
+        "@user": "Alkmaarder",
+        "@uid": "2800968"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7988822,
+          52.3146891
+        ]
+      },
+      "id": "node/4281471670"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4281471679",
+        "aeroway": "parking_position",
+        "@timestamp": "2016-07-04T05:53:16Z",
+        "@version": "1",
+        "@changeset": "40470757",
+        "@user": "Alkmaarder",
+        "@uid": "2800968"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7974313,
+          52.3150557
+        ]
+      },
+      "id": "node/4281471679"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4426220847",
+        "aeroway": "gate",
+        "layer": "2",
+        "ref": "D68",
+        "@timestamp": "2016-10-01T09:53:21Z",
+        "@version": "1",
+        "@changeset": "42560025",
+        "@user": "michael63",
+        "@uid": "462088"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7696329,
+          52.3075969
+        ]
+      },
+      "id": "node/4426220847"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4426220848",
+        "aeroway": "gate",
+        "layer": "2",
+        "ref": "D66",
+        "@timestamp": "2016-10-01T09:53:21Z",
+        "@version": "1",
+        "@changeset": "42560025",
+        "@user": "michael63",
+        "@uid": "462088"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7693144,
+          52.3079236
+        ]
+      },
+      "id": "node/4426220848"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4426220849",
+        "aeroway": "gate",
+        "layer": "2",
+        "ref": "D64",
+        "@timestamp": "2016-10-01T09:53:21Z",
+        "@version": "1",
+        "@changeset": "42560025",
+        "@user": "michael63",
+        "@uid": "462088"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7674352,
+          52.3084261
+        ]
+      },
+      "id": "node/4426220849"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4426220850",
+        "aeroway": "gate",
+        "layer": "2",
+        "ref": "D62",
+        "@timestamp": "2016-10-01T09:53:21Z",
+        "@version": "1",
+        "@changeset": "42560025",
+        "@user": "michael63",
+        "@uid": "462088"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7667058,
+          52.3084491
+        ]
+      },
+      "id": "node/4426220850"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4426220851",
+        "aeroway": "gate",
+        "layer": "2",
+        "ref": "D60",
+        "@timestamp": "2016-10-01T09:53:21Z",
+        "@version": "1",
+        "@changeset": "42560025",
+        "@user": "michael63",
+        "@uid": "462088"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7659707,
+          52.3084687
+        ]
+      },
+      "id": "node/4426220851"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4426220852",
+        "aeroway": "gate",
+        "layer": "2",
+        "ref": "D63",
+        "@timestamp": "2016-10-01T09:53:21Z",
+        "@version": "1",
+        "@changeset": "42560025",
+        "@user": "michael63",
+        "@uid": "462088"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7684374,
+          52.3087632
+        ]
+      },
+      "id": "node/4426220852"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4426220853",
+        "aeroway": "gate",
+        "layer": "2",
+        "ref": "D61",
+        "@timestamp": "2016-10-01T09:53:21Z",
+        "@version": "1",
+        "@changeset": "42560025",
+        "@user": "michael63",
+        "@uid": "462088"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7676004,
+          52.308796
+        ]
+      },
+      "id": "node/4426220853"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4426220854",
+        "aeroway": "gate",
+        "layer": "2",
+        "ref": "D59",
+        "@timestamp": "2016-10-01T09:53:21Z",
+        "@version": "1",
+        "@changeset": "42560025",
+        "@user": "michael63",
+        "@uid": "462088"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.766873,
+          52.3088006
+        ]
+      },
+      "id": "node/4426220854"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4426220855",
+        "aeroway": "gate",
+        "ref": "M7",
+        "@timestamp": "2016-10-01T09:53:21Z",
+        "@version": "1",
+        "@changeset": "42560025",
+        "@user": "michael63",
+        "@uid": "462088"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7529406,
+          52.3092017
+        ]
+      },
+      "id": "node/4426220855"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4426220856",
+        "aeroway": "gate",
+        "layer": "2",
+        "ref": "D86",
+        "@timestamp": "2016-10-01T09:53:21Z",
+        "@version": "1",
+        "@changeset": "42560025",
+        "@user": "michael63",
+        "@uid": "462088"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7733724,
+          52.3092401
+        ]
+      },
+      "id": "node/4426220856"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4426220857",
+        "aeroway": "gate",
+        "layer": "2",
+        "ref": "D71",
+        "@timestamp": "2016-10-01T09:53:21Z",
+        "@version": "1",
+        "@changeset": "42560025",
+        "@user": "michael63",
+        "@uid": "462088"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7695783,
+          52.3092561
+        ]
+      },
+      "id": "node/4426220857"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4426220858",
+        "aeroway": "gate",
+        "layer": "2",
+        "ref": "D84",
+        "@timestamp": "2016-10-01T09:53:21Z",
+        "@version": "1",
+        "@changeset": "42560025",
+        "@user": "michael63",
+        "@uid": "462088"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7727324,
+          52.3092614
+        ]
+      },
+      "id": "node/4426220858"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4426220859",
+        "aeroway": "gate",
+        "layer": "2",
+        "ref": "D82",
+        "@timestamp": "2016-10-01T09:53:21Z",
+        "@version": "1",
+        "@changeset": "42560025",
+        "@user": "michael63",
+        "@uid": "462088"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7720887,
+          52.3092828
+        ]
+      },
+      "id": "node/4426220859"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4426220860",
+        "aeroway": "gate",
+        "layer": "1",
+        "ref": "D54",
+        "@timestamp": "2016-10-01T09:53:21Z",
+        "@version": "1",
+        "@changeset": "42560025",
+        "@user": "michael63",
+        "@uid": "462088"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7727352,
+          52.3092989
+        ]
+      },
+      "id": "node/4426220860"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4426220861",
+        "aeroway": "gate",
+        "layer": "2",
+        "ref": "D78",
+        "@timestamp": "2016-10-01T09:53:21Z",
+        "@version": "1",
+        "@changeset": "42560025",
+        "@user": "michael63",
+        "@uid": "462088"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7714723,
+          52.3093033
+        ]
+      },
+      "id": "node/4426220861"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4426220862",
+        "aeroway": "gate",
+        "layer": "2",
+        "ref": "D74",
+        "@timestamp": "2016-10-01T09:53:21Z",
+        "@version": "1",
+        "@changeset": "42560025",
+        "@user": "michael63",
+        "@uid": "462088"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7706498,
+          52.3093306
+        ]
+      },
+      "id": "node/4426220862"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4426220863",
+        "aeroway": "gate",
+        "layer": "1",
+        "ref": "D44",
+        "@timestamp": "2016-10-01T09:53:22Z",
+        "@version": "1",
+        "@changeset": "42560025",
+        "@user": "michael63",
+        "@uid": "462088"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7706525,
+          52.3093682
+        ]
+      },
+      "id": "node/4426220863"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4426220864",
+        "aeroway": "gate",
+        "ref": "M6",
+        "@timestamp": "2016-10-01T09:53:22Z",
+        "@version": "1",
+        "@changeset": "42560025",
+        "@user": "michael63",
+        "@uid": "462088"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7534589,
+          52.3094021
+        ]
+      },
+      "id": "node/4426220864"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4426220865",
+        "aeroway": "gate",
+        "ref": "M5",
+        "@timestamp": "2016-10-01T09:53:22Z",
+        "@version": "1",
+        "@changeset": "42560025",
+        "@user": "michael63",
+        "@uid": "462088"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7540076,
+          52.3096142
+        ]
+      },
+      "id": "node/4426220865"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4426220866",
+        "aeroway": "gate",
+        "layer": "2",
+        "ref": "D73",
+        "@timestamp": "2016-10-01T09:53:22Z",
+        "@version": "1",
+        "@changeset": "42560025",
+        "@user": "michael63",
+        "@uid": "462088"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7700718,
+          52.3096327
+        ]
+      },
+      "id": "node/4426220866"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4426220867",
+        "aeroway": "gate",
+        "layer": "2",
+        "ref": "D87",
+        "@timestamp": "2016-10-01T09:53:22Z",
+        "@version": "1",
+        "@changeset": "42560025",
+        "@user": "michael63",
+        "@uid": "462088"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7739673,
+          52.3096467
+        ]
+      },
+      "id": "node/4426220867"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4426220868",
+        "aeroway": "gate",
+        "layer": "2",
+        "ref": "D85",
+        "@timestamp": "2016-10-01T09:53:22Z",
+        "@version": "1",
+        "@changeset": "42560025",
+        "@user": "michael63",
+        "@uid": "462088"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7733161,
+          52.3096587
+        ]
+      },
+      "id": "node/4426220868"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4426220869",
+        "aeroway": "gate",
+        "layer": "2",
+        "ref": "D83",
+        "@timestamp": "2016-10-01T09:53:22Z",
+        "@version": "1",
+        "@changeset": "42560025",
+        "@user": "michael63",
+        "@uid": "462088"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7727529,
+          52.3096685
+        ]
+      },
+      "id": "node/4426220869"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4426220870",
+        "aeroway": "gate",
+        "layer": "2",
+        "ref": "D81",
+        "@timestamp": "2016-10-01T09:53:22Z",
+        "@version": "1",
+        "@changeset": "42560025",
+        "@user": "michael63",
+        "@uid": "462088"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7720233,
+          52.3097013
+        ]
+      },
+      "id": "node/4426220870"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4426220871",
+        "aeroway": "gate",
+        "layer": "2",
+        "ref": "D79",
+        "@timestamp": "2016-10-01T09:53:22Z",
+        "@version": "1",
+        "@changeset": "42560025",
+        "@user": "michael63",
+        "@uid": "462088"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7712883,
+          52.3097267
+        ]
+      },
+      "id": "node/4426220871"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4426220872",
+        "aeroway": "gate",
+        "layer": "2",
+        "ref": "D77",
+        "@timestamp": "2016-10-01T09:53:22Z",
+        "@version": "1",
+        "@changeset": "42560025",
+        "@user": "michael63",
+        "@uid": "462088"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7707253,
+          52.3097473
+        ]
+      },
+      "id": "node/4426220872"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4426220873",
+        "aeroway": "gate",
+        "ref": "M4",
+        "@timestamp": "2016-10-01T09:53:22Z",
+        "@version": "1",
+        "@changeset": "42560025",
+        "@user": "michael63",
+        "@uid": "462088"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7545448,
+          52.3098218
+        ]
+      },
+      "id": "node/4426220873"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4426220874",
+        "aeroway": "gate",
+        "ref": "M3",
+        "@timestamp": "2016-10-01T09:53:22Z",
+        "@version": "1",
+        "@changeset": "42560025",
+        "@user": "michael63",
+        "@uid": "462088"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7550848,
+          52.3100305
+        ]
+      },
+      "id": "node/4426220874"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4426220875",
+        "aeroway": "gate",
+        "ref": "M2",
+        "@timestamp": "2016-10-01T09:53:22Z",
+        "@version": "1",
+        "@changeset": "42560025",
+        "@user": "michael63",
+        "@uid": "462088"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7555966,
+          52.3102284
+        ]
+      },
+      "id": "node/4426220875"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4426220876",
+        "aeroway": "gate",
+        "ref": "M1",
+        "@timestamp": "2016-10-01T09:53:22Z",
+        "@version": "1",
+        "@changeset": "42560025",
+        "@user": "michael63",
+        "@uid": "462088"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.756186,
+          52.3104562
+        ]
+      },
+      "id": "node/4426220876"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4521179592",
+        "aeroway": "gate",
+        "name": "G11 to G16",
+        "name:en": "G11 to G16",
+        "@timestamp": "2016-11-25T18:50:19Z",
+        "@version": "2",
+        "@changeset": "43950813",
+        "@user": "Humus015",
+        "@uid": "3252237"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7568611,
+          52.3114234
+        ]
+      },
+      "id": "node/4521179592"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4521223292",
+        "aeroway": "gate",
+        "name": "B14",
+        "name:en": "B14",
+        "@timestamp": "2016-11-25T18:46:47Z",
+        "@version": "2",
+        "@changeset": "43950754",
+        "@user": "Humus015",
+        "@uid": "3252237"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7615221,
+          52.3048255
+        ]
+      },
+      "id": "node/4521223292"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4521227089",
+        "aeroway": "gate",
+        "name": "B1 to B8",
+        "name:en": "B1 to B8",
+        "@timestamp": "2016-11-25T18:46:47Z",
+        "@version": "2",
+        "@changeset": "43950754",
+        "@user": "Humus015",
+        "@uid": "3252237"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7613566,
+          52.3050169
+        ]
+      },
+      "id": "node/4521227089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5846539351",
+        "aeroway": "parking_position",
+        "ref": "A46",
+        "@timestamp": "2019-08-16T19:23:58Z",
+        "@version": "2",
+        "@changeset": "73427858",
+        "@user": "Henkinator023",
+        "@uid": "3169349"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7529001,
+          52.3010022
+        ]
+      },
+      "id": "node/5846539351"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5846539352",
+        "aeroway": "parking_position",
+        "ref": "A45",
+        "@timestamp": "2019-08-16T19:23:58Z",
+        "@version": "2",
+        "@changeset": "73427858",
+        "@user": "Henkinator023",
+        "@uid": "3169349"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7531786,
+          52.3007233
+        ]
+      },
+      "id": "node/5846539352"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5846539353",
+        "aeroway": "parking_position",
+        "ref": "A44",
+        "@timestamp": "2019-08-16T19:23:58Z",
+        "@version": "2",
+        "@changeset": "73427858",
+        "@user": "Henkinator023",
+        "@uid": "3169349"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7534715,
+          52.3004356
+        ]
+      },
+      "id": "node/5846539353"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5846539354",
+        "aeroway": "parking_position",
+        "ref": "A43",
+        "@timestamp": "2019-08-16T19:23:58Z",
+        "@version": "2",
+        "@changeset": "73427858",
+        "@user": "Henkinator023",
+        "@uid": "3169349"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7537595,
+          52.3001537
+        ]
+      },
+      "id": "node/5846539354"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5846539355",
+        "aeroway": "parking_position",
+        "ref": "A42",
+        "@timestamp": "2019-08-16T19:23:58Z",
+        "@version": "2",
+        "@changeset": "73427858",
+        "@user": "Henkinator023",
+        "@uid": "3169349"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7541004,
+          52.2998307
+        ]
+      },
+      "id": "node/5846539355"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5846539356",
+        "aeroway": "parking_position",
+        "ref": "A41",
+        "@timestamp": "2019-08-16T19:23:58Z",
+        "@version": "2",
+        "@changeset": "73427858",
+        "@user": "Henkinator023",
+        "@uid": "3169349"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7543837,
+          52.299543
+        ]
+      },
+      "id": "node/5846539356"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5846558711",
+        "aeroway": "parking_position",
+        "ref": "B16R",
+        "@timestamp": "2018-08-21T15:59:53Z",
+        "@version": "1",
+        "@changeset": "61861086",
+        "@user": "Dung3onMast3r",
+        "@uid": "1649006"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7613277,
+          52.3042271
+        ]
+      },
+      "id": "node/5846558711"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5846558712",
+        "aeroway": "parking_position",
+        "ref": "B20R",
+        "@timestamp": "2018-08-21T15:59:53Z",
+        "@version": "1",
+        "@changeset": "61861086",
+        "@user": "Dung3onMast3r",
+        "@uid": "1649006"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7616499,
+          52.303953
+        ]
+      },
+      "id": "node/5846558712"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5846558713",
+        "aeroway": "parking_position",
+        "ref": "B24R",
+        "@timestamp": "2018-08-21T15:59:53Z",
+        "@version": "1",
+        "@changeset": "61861086",
+        "@user": "Dung3onMast3r",
+        "@uid": "1649006"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7619348,
+          52.3036903
+        ]
+      },
+      "id": "node/5846558713"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5846558714",
+        "aeroway": "parking_position",
+        "ref": "B28R",
+        "@timestamp": "2018-08-21T15:59:53Z",
+        "@version": "1",
+        "@changeset": "61861086",
+        "@user": "Dung3onMast3r",
+        "@uid": "1649006"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7621916,
+          52.3034076
+        ]
+      },
+      "id": "node/5846558714"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5846558715",
+        "aeroway": "parking_position",
+        "ref": "B32R",
+        "@timestamp": "2018-08-21T15:59:53Z",
+        "@version": "1",
+        "@changeset": "61861086",
+        "@user": "Dung3onMast3r",
+        "@uid": "1649006"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7624625,
+          52.3031334
+        ]
+      },
+      "id": "node/5846558715"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5846558716",
+        "aeroway": "parking_position",
+        "ref": "B36R",
+        "@timestamp": "2018-08-21T15:59:53Z",
+        "@version": "1",
+        "@changeset": "61861086",
+        "@user": "Dung3onMast3r",
+        "@uid": "1649006"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7627801,
+          52.3028593
+        ]
+      },
+      "id": "node/5846558716"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5846558717",
+        "aeroway": "parking_position",
+        "ref": "B13L",
+        "@timestamp": "2018-08-21T15:59:53Z",
+        "@version": "1",
+        "@changeset": "61861086",
+        "@user": "Dung3onMast3r",
+        "@uid": "1649006"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7621636,
+          52.3054264
+        ]
+      },
+      "id": "node/5846558717"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5846558718",
+        "aeroway": "parking_position",
+        "ref": "B15L",
+        "@timestamp": "2018-08-21T15:59:53Z",
+        "@version": "1",
+        "@changeset": "61861086",
+        "@user": "Dung3onMast3r",
+        "@uid": "1649006"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7625045,
+          52.3050923
+        ]
+      },
+      "id": "node/5846558718"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5846558719",
+        "aeroway": "parking_position",
+        "ref": "B17L",
+        "@timestamp": "2018-08-21T15:59:53Z",
+        "@version": "1",
+        "@changeset": "61861086",
+        "@user": "Dung3onMast3r",
+        "@uid": "1649006"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7628408,
+          52.3047554
+        ]
+      },
+      "id": "node/5846558719"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5846558720",
+        "aeroway": "parking_position",
+        "ref": "B23L",
+        "@timestamp": "2018-08-21T15:59:53Z",
+        "@version": "1",
+        "@changeset": "61861086",
+        "@user": "Dung3onMast3r",
+        "@uid": "1649006"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7631397,
+          52.3044013
+        ]
+      },
+      "id": "node/5846558720"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5846558721",
+        "aeroway": "parking_position",
+        "ref": "B27L",
+        "@timestamp": "2018-08-21T15:59:53Z",
+        "@version": "1",
+        "@changeset": "61861086",
+        "@user": "Dung3onMast3r",
+        "@uid": "1649006"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7634946,
+          52.3040586
+        ]
+      },
+      "id": "node/5846558721"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5846558722",
+        "aeroway": "parking_position",
+        "ref": "B31L",
+        "@timestamp": "2018-08-21T15:59:53Z",
+        "@version": "1",
+        "@changeset": "61861086",
+        "@user": "Dung3onMast3r",
+        "@uid": "1649006"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7638308,
+          52.3037274
+        ]
+      },
+      "id": "node/5846558722"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5846558723",
+        "aeroway": "parking_position",
+        "ref": "B35L",
+        "@timestamp": "2018-08-21T15:59:53Z",
+        "@version": "1",
+        "@changeset": "61861086",
+        "@user": "Dung3onMast3r",
+        "@uid": "1649006"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7641904,
+          52.303399
+        ]
+      },
+      "id": "node/5846558723"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6716420215",
+        "aeroway": "parking_position",
+        "ref": "U22",
+        "@timestamp": "2019-08-16T19:09:39Z",
+        "@version": "1",
+        "@changeset": "73427475",
+        "@user": "Henkinator023",
+        "@uid": "3169349"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7450477,
+          52.3241437
+        ]
+      },
+      "id": "node/6716420215"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6716420216",
+        "aeroway": "parking_position",
+        "ref": "U24",
+        "@timestamp": "2019-08-16T19:09:39Z",
+        "@version": "1",
+        "@changeset": "73427475",
+        "@user": "Henkinator023",
+        "@uid": "3169349"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7450799,
+          52.3245142
+        ]
+      },
+      "id": "node/6716420216"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6716420217",
+        "aeroway": "parking_position",
+        "ref": "U25",
+        "@timestamp": "2019-08-16T19:09:39Z",
+        "@version": "1",
+        "@changeset": "73427475",
+        "@user": "Henkinator023",
+        "@uid": "3169349"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7451281,
+          52.325147
+        ]
+      },
+      "id": "node/6716420217"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6716420218",
+        "aeroway": "parking_position",
+        "ref": "U27",
+        "@timestamp": "2019-08-16T19:09:39Z",
+        "@version": "1",
+        "@changeset": "73427475",
+        "@user": "Henkinator023",
+        "@uid": "3169349"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.745155,
+          52.3255142
+        ]
+      },
+      "id": "node/6716420218"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6716420219",
+        "aeroway": "parking_position",
+        "ref": "U31",
+        "@timestamp": "2020-10-11T12:40:18Z",
+        "@version": "2",
+        "@changeset": "92300680",
+        "@user": "TWHB",
+        "@uid": "6556551"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7453065,
+          52.3271625
+        ]
+      },
+      "id": "node/6716420219"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6716420220",
+        "aeroway": "parking_position",
+        "ref": "U33",
+        "@timestamp": "2020-10-11T12:40:18Z",
+        "@version": "2",
+        "@changeset": "92300680",
+        "@user": "TWHB",
+        "@uid": "6556551"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7453441,
+          52.3275264
+        ]
+      },
+      "id": "node/6716420220"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6716420226",
+        "aeroway": "parking_position",
+        "ref": "U20",
+        "@timestamp": "2019-08-16T19:09:39Z",
+        "@version": "1",
+        "@changeset": "73427475",
+        "@user": "Henkinator023",
+        "@uid": "3169349"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.747054,
+          52.3232454
+        ]
+      },
+      "id": "node/6716420226"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6716420227",
+        "aeroway": "parking_position",
+        "ref": "U21",
+        "@timestamp": "2020-10-11T12:40:18Z",
+        "@version": "2",
+        "@changeset": "92300680",
+        "@user": "TWHB",
+        "@uid": "6556551"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7471586,
+          52.3243471
+        ]
+      },
+      "id": "node/6716420227"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6716420228",
+        "aeroway": "parking_position",
+        "ref": "U28",
+        "@timestamp": "2020-10-11T12:40:18Z",
+        "@version": "2",
+        "@changeset": "92300680",
+        "@user": "TWHB",
+        "@uid": "6556551"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7472067,
+          52.3251812
+        ]
+      },
+      "id": "node/6716420228"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6716420229",
+        "aeroway": "parking_position",
+        "ref": "U29",
+        "@timestamp": "2019-08-16T19:09:39Z",
+        "@version": "1",
+        "@changeset": "73427475",
+        "@user": "Henkinator023",
+        "@uid": "3169349"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7473437,
+          52.326265
+        ]
+      },
+      "id": "node/6716420229"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6716420230",
+        "aeroway": "parking_position",
+        "ref": "U30",
+        "@timestamp": "2020-10-11T12:40:18Z",
+        "@version": "2",
+        "@changeset": "92300680",
+        "@user": "TWHB",
+        "@uid": "6556551"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7474122,
+          52.3273538
+        ]
+      },
+      "id": "node/6716420230"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6716444961",
+        "aeroway": "parking_position",
+        "ref": "A62R",
+        "@timestamp": "2019-08-16T19:23:58Z",
+        "@version": "1",
+        "@changeset": "73427858",
+        "@user": "Henkinator023",
+        "@uid": "3169349"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7566965,
+          52.3009966
+        ]
+      },
+      "id": "node/6716444961"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6716444962",
+        "aeroway": "parking_position",
+        "ref": "A63R",
+        "@timestamp": "2019-08-16T19:23:58Z",
+        "@version": "1",
+        "@changeset": "73427858",
+        "@user": "Henkinator023",
+        "@uid": "3169349"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7564149,
+          52.3012738
+        ]
+      },
+      "id": "node/6716444962"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6716444963",
+        "aeroway": "parking_position",
+        "ref": "A64R",
+        "@timestamp": "2019-08-16T19:23:58Z",
+        "@version": "1",
+        "@changeset": "73427858",
+        "@user": "Henkinator023",
+        "@uid": "3169349"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7561145,
+          52.3015576
+        ]
+      },
+      "id": "node/6716444963"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6716444964",
+        "aeroway": "parking_position",
+        "ref": "A65R",
+        "@timestamp": "2019-08-16T19:23:58Z",
+        "@version": "1",
+        "@changeset": "73427858",
+        "@user": "Henkinator023",
+        "@uid": "3169349"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7558302,
+          52.3018348
+        ]
+      },
+      "id": "node/6716444964"
+    }
+  ]
+}
