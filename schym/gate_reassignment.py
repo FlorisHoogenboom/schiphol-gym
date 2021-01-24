@@ -102,7 +102,7 @@ class GateScheduling(gym.Env):
 
             ttr_start_time = current_task_to_reschedule.start_time
             ttr_end_time = current_task_to_reschedule.end_time
-            schedule_repr[self.n_resources * 5 + 1: (self.n_resources + 1) * 5 - 1, ttr_start_time * 5 + 1:ttr_end_time * 5 -1, 0] = 1
+            schedule_repr[self.n_resources * 5 + 1: (self.n_resources + 1) * 5 - 1, ttr_start_time * 5 + 1:ttr_end_time * 5 - 1, 0] = 1
 
         visible_from = self.current_timestep * 5
         visible_to = (self.current_timestep + self.visible_window) * 5
