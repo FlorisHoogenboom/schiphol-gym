@@ -135,7 +135,7 @@ class GateScheduling(gym.Env):
             task_to_reschedule
         ]
 
-        return self.observe(), 0, False, {}
+        return self.observe()
 
     def step_to_next_timestep(self):
         self.current_timestep += 1
