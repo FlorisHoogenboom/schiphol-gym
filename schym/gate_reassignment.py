@@ -78,7 +78,7 @@ class GateScheduling(gym.Env):
             low=0.,
             high=1.,
             dtype=np.float32,
-            shape=(self.n_resources + 1, self.max_len, 3)
+            shape=((self.n_resources + 1) * 5, self.visible_window * 5, 3)
         )
 
         self.current_timestep = 0
