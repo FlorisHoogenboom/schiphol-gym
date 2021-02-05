@@ -214,7 +214,7 @@ class GateScheduling(gym.Env):
             if not self.in_time_to_reschedule_remaining_tasks():
                 # In case we are no longer in time to reschedule all tasks in the new situation
                 # the simulation ends
-                return self.observe(), -50, True, {}
+                return self.observe(), -10, True, {}
             elif self.has_tasks_to_reschedule():
                 # If there are still tasks that haven't been settled yet, proceed. The penalty
                 # in this case is given by the number of tasks that need to be rescheduled extra
@@ -222,20 +222,22 @@ class GateScheduling(gym.Env):
                 return self.observe(), -1 * len(new_tasks_to_rescheulde), False, {}
             else:
                 # Otherwise, we are done rescheduling
-                return self.observe(), 100, True, {}
+                return self.observe(), 10, True, {}
 
         elif self.action_is_moving_flight_in_time(action):
             self.tasks_to_reschedule = [task_to_schedule] + self.tasks_to_reschedule
 
-            if ((action == self.n_resources) and
-                (task_to_schedule.start_time > self.current_timestep)):
+            if (
+                (action == self.n_resources) and
+                (task_to_schedule.start_time > self.current_timestep)
+            ):
                 # The task can only be moved forward is there still is time and moving the task
                 # does not cause a situation where we are too late to reschedule this task
                 task_to_schedule.start_time = task_to_schedule.start_time - 1
                 task_to_schedule.end_time = task_to_schedule.end_time - 1
 
                 self.step_to_next_timestep()
-                return self.observe(), -5, False, {}
+                return self.observe(), -3, False, {}
 
             elif ((action == self.n_resources + 1) and
                   (task_to_schedule.end_time < self.max_len)):
@@ -243,13 +245,13 @@ class GateScheduling(gym.Env):
                 task_to_schedule.end_time = task_to_schedule.end_time + 1
 
                 self.step_to_next_timestep()
-                return self.observe(), -5, False, {}
+                return self.observe(), -3, False, {}
 
             self.step_to_next_timestep()
             if not self.in_time_to_reschedule_remaining_tasks():
                 # In case we are no longer in time to reschedule all tasks in the new situation
                 # the simulation ends
-                return self.observe(), -50, True, {}
+                return self.observe(), -10, True, {}
             else:
                 # In this case a non-permissible action has been performed with regards to moving
                 # in time
